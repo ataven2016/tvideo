@@ -1,6 +1,7 @@
  {
     "name" : "兰新互动",
     "version" : 1.0,
+    "page_active": "http://%@/act",
     "domains" : [
       {
         "domain" : "www.lgfxiu.com",
