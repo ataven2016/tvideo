@@ -5,13 +5,13 @@
     "domains" : [
       {
         "domain" : "www.lgfxiu.com",
-        "vdomain" : "v.www.lgfxiu.com",
+        "vdomain" : "v.lgfxiu.com",
         "pdomain" : "p.lgfxiu.com",
         "isOneRoom" : 0
       },
       {
         "domain" : "www.lgfxiu.com",
-        "vdomain" : "v.www.lgfxiu.com",
+        "vdomain" : "v.lgfxiu.com",
         "pdomain" : "p.lgfxiu.com",
         "isOneRoom" : 1
       },
