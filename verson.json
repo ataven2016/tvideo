@@ -1,19 +1,19 @@
- {
-    "name" : "兰新互动",
-    "version" : 1.0,
+{
+    "name": "兰新互动",
+    "version": 1,
     "page_active": "http://%@/act",
-    "domains" : [
-      {
-        "domain" : "www.lgffj1.com",
-        "vdomain" : "v.lgffj1.com",
-        "pdomain" : "p.lgffj1.com,
-        "isOneRoom" : 0
-      },
-      {
-        "domain" : "www.lgfxiu.com",
-        "vdomain" : "v.lgfxiu.com",
-        "pdomain" : "p.lgfxiu.com",
-        "isOneRoom" : 1
-      },
+    "domains": [
+        {
+            "domain": "www.lgffj1.com",
+            "vdomain": "v.lgffj1.com",
+            "pdomain": "p.lgffj1.com",
+            "isOneRoom": 0
+        },
+        {
+            "domain": "www.lgfxiu.com",
+            "vdomain": "v.lgfxiu.com",
+            "pdomain": "p.lgfxiu.com",
+            "isOneRoom": 1
+        }
     ]
-  }
+}
