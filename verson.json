@@ -4,15 +4,9 @@
     "page_active": "http://%@/act",
     "domains": [
         {
-            "domain": "www.lgfxc.net",
-            "vdomain": "v.lgfxc.net",
-            "pdomain": "p.lgfxc.net",
-            "isOneRoom": 0
-        },
-        {
-            "domain": "www.lgfabcd.com",
-            "vdomain": "v.lgfabcd.com",
-            "pdomain": "p.lgfabcd.com",
+            "domain": "www.lgf989.com",
+            "vdomain": "v.lgf989.com",
+            "pdomain": "p.lgf989.com",
             "isOneRoom": 0
         },
         {
