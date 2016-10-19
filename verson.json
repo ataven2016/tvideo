@@ -4,12 +4,6 @@
     "page_active": "http://%@/act",
     "domains": [
         {
-            "domain": "www.lgfaa.com",
-            "vdomain": "v.lgfaa.com",
-            "pdomain": "p.lgfaa.com",
-            "isOneRoom": 0
-        },
-        {
             "domain": "www.lgfxc.net",
             "vdomain": "v.lgfxc.net",
             "pdomain": "p.lgfxc.net",
