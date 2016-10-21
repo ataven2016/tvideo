@@ -5,7 +5,7 @@
     "domains": [
         {
             "domain": "www.lgfxc.net",
-            "vdomain": "v.lgfxc.net,
+            "vdomain": "v.lgfxc.net",
             "pdomain": "p.lgfxc.net",
             "isOneRoom": 0
         },
